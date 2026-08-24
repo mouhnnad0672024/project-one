@@ -1,12 +1,3 @@
 This is my work space
 update from master
-------------------
-
------------------
-location here 2
------------------
-master here 
-------------------
-location here 3
-------------------
 add dashboard
