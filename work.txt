@@ -1,7 +1,7 @@
 This is my work space
 update from master
 ------------------
-location here
+
 -----------------
 location here 2
 -----------------
