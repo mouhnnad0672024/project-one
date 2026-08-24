@@ -8,3 +8,5 @@ location here 2
 master here 
 ------------------
 location here 3
+------------------
+add dashboard
