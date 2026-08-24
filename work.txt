@@ -4,3 +4,6 @@ add dashboard
 add pull request2
 I would to add something here....
 this update is done by master on github
+
+
+handle forget password
